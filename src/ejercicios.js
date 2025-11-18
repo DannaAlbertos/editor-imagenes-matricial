@@ -390,8 +390,13 @@ function voltearHorizontal(matriz) {
  */
 function voltearVertical(matriz) {
   // TODO: Implementar volteo vertical
+   const resultado = [];
+  for (let i = matriz.length - 1; i >= 0; i--) {
+    resultado.push([...matriz[i]]);
+  }
+
   
-  return []; // REEMPLAZAR
+  return resultado; // REEMPLAZAR
 }
 
 /**
