@@ -1,9 +1,9 @@
 // ============================================
 // EDITOR DE IMÁGENES CON ÁLGEBRA MATRICIAL
 // ============================================
-// Nombre del estudiante: _________________
-// Fecha: _________________
-// Grupo: _________________
+// Nombre del estudiante: Danna Pamela ALbertos Sosa
+// Fecha:  18/11/2025
+// Grupo: "A"
 
 const { PNG } = require('pngjs');
 const fs = require('fs');
